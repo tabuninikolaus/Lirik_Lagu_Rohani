@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Lirik Lagu Rohani</string>
+    <string name="LupasPass">Lupa pasword? Tenang masukan email anda di sini kami akan reset password anda</string>
+    <string name="TextRegister">Don\'t have an account? Sign Up</string>
+<!--    String Lirik Lagu-->
+    <string name="desc_Allah_nogoba1">
+                                        Ku mau cinta Yesus selamanya, Ku mau cinta Yesus selamanya
+                                        Meskipun badai silih berganti dalam hidupku,Ku tetap cinta Yesus selamanya,
+                                        Ya Abba Bapa ini aku anak-MuLayakkanlah seluruh hidupkuYa Abba Bapa ini aku
+                                        anak-MuPakailah sesuai dengan rencana-Mu</string>
+    <string name="desc_Allah_nogoba2">  Kasih Allahku sungguh tlah terbukti
+                                        Ketika Dia serahkan AnakNya
+                                        Kasih Allah mau berkorban bagi kau dan aku
+                                        Tak ada kasih seperti KasihMu
+                                        Bersyukur bersyukur bersyukurlah
+                                        Bersyukur karna Kasih setiaMu
+                                        Kusembah, kusembah, kusembah dan kusembah
+                                        S’lama hidupku kusembah Kau Tuhan</string>
+    <string name="desc_Allah_nogoba3"> Kurasakan kasihMu Tuhan
+                                        Kurasakan kuasaMu Tuhan
+                                        Kurasakan kasih kuasa Roh Kudus
+                                        Kurasakan kehadiranMu
+                                        Kurasakan kasihMu Tuhan
+                                        Kurasakan kuasaMuTuhan
+                                        Kurasakan kasih kuasa Roh Kudus
+                                        Kurasakan kehadiranMu
+                                        Curahkanlah kuasaMu Tuhan
+                                        Mujizat terjadi di tempat ini
+                                        Curahkanlah kuasaMu Tuhan
+                                        Mujizat terjadi sekarang ini</string>
+    <string name="desc_Allah_nogoba4">Ketika kuhadapi kehidupan ini
+                                        Jalan mana yg harus kupilih
+                                        Ku tahu ku tak mampu
+                                        Ku tahu ku tak sanggup
+                                        Hanya kau Tuhan tempat jawabanku
+
+                                        Ku pun tahu ku tak pernah sendiri
+                                        Selama engkau Allah yang menggendongku
+                                        TanganMu membelaiku
+                                        CintaMmu memuaskanku
+                                        Kau mengangkatku ke tempat yang tinggi
+
+                                        JanjiMu seperti fajar pagi hari
+                                        Dan tiada pernah terlambat bersinar
+                                        CintaMu seperti sungai yg mengalir
+                                        Dan kutahu betapa dalam kasihMu
+                                        Pakailah sesuai dengan rencana-Mu</string>
+    <string name="desc_Allah_nogoba5">  Kasih setia-Mu yang kurasakan
+                                        Lebih tinggi dari langit biru
+                                        Kebaikan-Mu yang t\'lah Kau nyatakan
+                                        Lebih dalam dari lautan
+                                        Berkat-Mu yang telah kuterima
+                                        Sempat membuatku terpesona
+                                        Apa yang tak pernah kupikirkan
+                                        Itu yang Kau sediakan bagiku
+                                        Siapakah aku ini, Tuhan?
+                                        Jadi biji mata-Mu
+                                        Dengan apakah kubalas, Tuhan?
+                                        Selain puji dan sembah Kau
+                                        Siapakah aku ini, Tuhan?
+                                        Jadi biji mata-Mu
+                                        Dengan apakah kubalas, Tuhan?
+                                        Selain puji dan sembah Kau</string>
+    <string name="desc_Allah_nogoba6">Betapa kumencintai
+                                        Segala yang tlah terjadi
+                                        Tak pernah sendiri jalani hidup ini
+                                        Selalu menyertai
+                                        Betapa kumenyadari
+                                        Di dalam hidupku ini
+                                        Kau slalu memberi rancangan terbaik
+                                        Oleh karena kasih
+                                        Bapa sentuh hatiku
+                                        Ubah hidupku menjadi yang baru
+                                        Bagai emas yang murni
+                                        Kau membentuk bejana hatiku
+                                        Bapa ajarku mengerti
+                                        Sebuah kasih yang selalu memberi
+                                        Bagai air mengalir
+                                        Yang tiada pernah berhenti</string>
+    <string name="desc_Allah_nogoba7"> Sejauh timur dari barat
+                                        Engkau membuang dosaku
+                                        Tiada Kau ingat lagi pelanggaranku
+                                        Jauh ke dalam tubir laut
+                                        Kau melemparkan dosaku
+                                        Tiada Kau perhitungkan kesalahanku
+
+                                        Betapa besar kasih pengampunanMu Tuhan
+                                        Tak Kau pandang hina hati yang hancur
+                                        Ku berterima kasih kepadaMu ya Tuhan
+                                        Pengampunan yang Kau beri pulihkanku</string>
+    <string name="desc_Allah_nogoba8">Sperti rusa rindu sungaiMu
+                                        Jiwaku rindu Engkau
+                                        Kaulah Tuhan hasrat hatiku
+                                        Kurindu menyembahMu
+                                        Engkau kekuatan dan perisaiku
+                                        Kepadamu rohku berserah
+                                        Kaulah Tuhan hasrat hatiku kurindu menyembahMu
+
+                                        Yesus Yesus
+                                        Kau berarti bagiku
+                                        Yesus Yesus
+                                        Kau segalanya bagiku</string>
+    <string name="desc_Allah_nogoba9">Kuberi kemuliaan dan hormat
+                                        Kuangkat suara pujian
+                                        Kuagungkan nama-Mu
+                                        Kuberi kemuliaan dan hormat
+                                        Kuangkat suara pujian
+                                        Kuagungkan nama-Mu
+                                        Sebab Kau besar perbuatan-Mu ajaib
+                                        Tiada seperti engkau
+                                        Tiada seperti engkau
+                                        Sebab Kau besar perbuatan-Mu ajaib
+                                        Tiada seperti engkau
+                                        Tiada seperti engkau</string>
+
+    <string name="desc_Allah_nogoba10">Roh Kudus, Kau hadir disini
+                                        Roh Kudus, ku mengasihiMu
+                                        Kau lembut, Kau manis
+                                        Kaulah penghiburku, penolongku diutus Bapaku
+                                        Roh Kudus, Kau hadir disini
+                                        Roh Kudus, ku mengasihiMu
+                                        Kau lembut, Kau manis
+                                        Kaulah penghiburku, penolongku diutus Bapaku
+                                        Kubuka hati untuk RohMu, Tuhan
+                                        Kubuka hati menyembahMu, Yesus
+                                        Jamahlah kami, penuhi kami
+                                        Dengan kuasa Allah Maha Tinggi
+                                        Kubuka hati untuk RohMu, Tuhan
+                                        Kubuka hati menyembahMu, Yesus
+                                        Jamahlah kami, penuhi kami
+                                        Dengan kuasa Allah Maha Tinggi</string>
+    <string name="MainDesc">Selamat datang! di aplikasi ini, di mana terdapat beberapa lagu-lagu Rohani dan liriknya semoga dapat membantu.</string>
+</resources>

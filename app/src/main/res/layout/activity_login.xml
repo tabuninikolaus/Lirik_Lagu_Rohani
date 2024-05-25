@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+        <!-- Declare variables to be used in the layout here -->
+    </data>
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/msc13"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/userr"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="32dp"/>
+
+        <EditText
+            android:id="@+id/loginEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:padding="12dp"
+            android:textColorHint="#615E5E"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/loginPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:padding="12dp"
+            android:textColorHint="#615E5E"
+            android:layout_marginBottom="16dp"/>
+
+        <Button
+            android:id="@+id/BtnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textColor="#DAD2D2"
+            android:textSize="16sp"
+            android:background="@drawable/rounded_button"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/TxtForgetPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot Password?"
+            android:textColor="#615E5E"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/TxtRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/TextRegister"
+            android:textColor="#403B3B"
+            android:textSize="14sp"
+            android:gravity="center"/>
+
+    </LinearLayout>
+</layout>

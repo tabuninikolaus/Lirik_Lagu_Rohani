@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="@drawable/msc13"
+        tools:context=".activity_register">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/register"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="32dp"/>
+
+        <EditText
+            android:id="@+id/emailRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:textColorHint="#615E5E"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/passwordRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textColorHint="#615E5E"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/confirmPasswordRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Confirm Password"
+            android:padding="12dp"
+            android:textColorHint="#615E5E"
+            android:layout_marginBottom="16dp"/>
+
+        <Button
+            android:id="@+id/buttonRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:textColor="#C9CFD6"
+            android:textSize="16sp"
+            android:background="@drawable/rounded_button"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/Sdh_pny_AkunRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already have an account? Log In"
+            android:textColor="#434141"
+            android:textSize="14sp"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+</layout>

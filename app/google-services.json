@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199789090896",
+    "project_id": "lirik-lagu-rohani",
+    "storage_bucket": "lirik-lagu-rohani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199789090896:android:396c69b3197e660b689955",
+        "android_client_info": {
+          "package_name": "com.nikolaus.liriklagurohani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGT2U8MUnUtNjftpKJmHj811IdinkNXl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
